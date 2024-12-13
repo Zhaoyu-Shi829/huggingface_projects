@@ -3,7 +3,7 @@
 3. SQL project
    * Spotify personal data (streaming history)
    * [unemployment survey](https://www.scb.se/en/finding-statistics/statistics-by-subject-area/labour-market/)
-   * fake job postings:
+   * fake job postings - text classification:
        * [kaggle](https://www.kaggle.com/code/devraai/detecting-fake-job-postings-with-data-analysis)
        * [huggingface-1](https://huggingface.co/datasets/victor/real-or-fake-fake-jobposting-prediction)
        * [huggingface-2](https://huggingface.co/datasets/james-burton/fake_job_postings2_all_text)
