@@ -7,4 +7,4 @@
        * [kaggle](https://www.kaggle.com/code/devraai/detecting-fake-job-postings-with-data-analysis)
        * [huggingface-1](https://huggingface.co/datasets/victor/real-or-fake-fake-jobposting-prediction)
        * [huggingface-2](https://huggingface.co/datasets/james-burton/fake_job_postings2_all_text)
-   
+   * [useful tutorial](https://huggingface.co/blog/sentiment-analysis-python)
